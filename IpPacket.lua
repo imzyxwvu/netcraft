@@ -1,0 +1,1 @@
+IpPacket = (require "Object"):extend()

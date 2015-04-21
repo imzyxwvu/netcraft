@@ -1,0 +1,1 @@
+Router = (require "Object"):extend()
